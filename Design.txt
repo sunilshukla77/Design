@@ -1,0 +1,15 @@
+1. Scalable
+2. Secure
+3. Small application easy monitor
+4. 
+5. 
+
+Cloud : Solution provide on demand
+
+Decomposition MS 2 type
+1. Divide by Sub domain
+2. Divide by Business 
+3. Async Service comunnication (Event driven Arch) (kafka) KafkaTemplate kt.sent(), @Listener 
+4. Syncronous call RestTemplate
+
+Docker K8n
